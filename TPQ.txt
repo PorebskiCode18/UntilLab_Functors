@@ -1,0 +1,10 @@
+What is a scenario where this function would be useful?
+
+A scenario where this function can be useful is simulating a game with
+health and damage.
+
+Can you think of any variations on this function that would also be useful?
+
+Some variations of this function can be the inverse of the function which
+runs until g is true or a function that records all the values of the until
+loop which can be useful for math or physics theories.
